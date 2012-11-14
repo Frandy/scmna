@@ -1,0 +1,10 @@
+
+
+about code style
+1. no methods implemented in class, in .cpp is prefered
+2. set/get, for pointer member or custom type member, no set/get for built-in type, and public member for STL member, and  
+3. 
+
+to implement
+1. ac, improved MNA
+2. dc & tran ?
